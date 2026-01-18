@@ -16,3 +16,5 @@ So far, here is what I have learned.
 ### Some Nice Leetcode questions to look at
 
 - [Longest Substring Without Repeating Chars. Got the MOST optimal (O(n))](./leetcode_3.md)
+- [Min Size Subs summ](https://neetcode.io/problems/minimum-size-subarray-sum/question?list=neetcode250) --> This is nice since the logic is reverse. Instead of maximising, you are finding the minimising. do l += 1 to find the correct state.
+- [Min Window Subs](https://leetcode.com/problems/minimum-window-substring/submissions/1889038052/) --> Check the Neetcode Sol. I couldnt do it since its completely reverse of prev med questions template. Check Perplexity comments [here](https://www.perplexity.ai/search/sliding-window-b7vA_RzoTRe_7TC_RZWlIg). Scroll down to get it
